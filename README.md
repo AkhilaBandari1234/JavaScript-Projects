@@ -1,1 +1,1 @@
-# JavaScript-Projects
+# JS-P-ColorChecker
